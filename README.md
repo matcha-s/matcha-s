@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![matcha's GitHub stats](https://github-readme-stats.vercel.app/api?username=matcha-s)](https://github.com/matcha-s/github-readme-stats)
+[![Matcha's GitHub stats](https://github-readme-stats.vercel.app/api?username=matcha-s)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
