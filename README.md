@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![matcha's GitHub stats](https://github-readme-stats.vercel.app/api?username=matcha-s)](https://github.com/matcha-s/github-readme-stats)
+
+
 <!--
 **matcha-s/matcha-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
